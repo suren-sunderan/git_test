@@ -1,0 +1,21 @@
+First create new repository on github
+
+To copy repository onto local machine, click on ssh and copy the
+line of text next to it
+
+In the command line, navigate to the project folder and type git clone
+git@github.com:.....
+
+cd into the new folder, to test type git remote -v
+
+To create new file type touch [Folder name] but this file will not be
+staged. git add [Folder name] will do so
+
+To commit the files and to add a descriptive commit message type
+git commit -m "Add [Folder name] ... "
+
+To check on commit history type git log
+
+To push work to github type git push origin master
+
+To check on the status at every step type git status
