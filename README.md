@@ -1,1 +1,1 @@
-Web Devolopment by The Odin Project
+Web Development by The Odin Project
